@@ -7,6 +7,7 @@ namespace Taller4
     {
         public static void RegisterGlobalFilters(GlobalFilterCollection filters)
         {
+            //TEST
             filters.Add(new HandleErrorAttribute());
         }
     }
